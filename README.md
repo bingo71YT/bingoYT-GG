@@ -1,2 +1,2 @@
-# bingoYT-GG
+# bingoYT-GG.lobby.bot
 lobby bot
